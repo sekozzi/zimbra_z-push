@@ -28,7 +28,7 @@
  */
 
     // Replace zpush.example.com with your z-push's host name and uncomment the line below.
-    define('ZPUSH_HOST', 'mail.siyahkalem.com');
+    define('ZPUSH_HOST', 'mail.domain.com');
 
     // Defines the default time zone, change e.g. to "Europe/London" if necessary
     define('TIMEZONE', 'Europe/Istanbul');
