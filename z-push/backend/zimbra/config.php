@@ -28,7 +28,7 @@
     // To configure the ZimbraBackend uncomment the appropriate line below and customize as
     // required.
 //    define('ZIMBRA_URL', 'http://zimbraServerName');
-    define('ZIMBRA_URL', 'https://mail.siyahkalem.com');
+    define('ZIMBRA_URL', 'https://mail.domain.com');
 //    define('ZIMBRA_URL', 'http://127.0.0.1');  
 //    define('ZIMBRA_URL', 'https://127.0.0.1');  
 
