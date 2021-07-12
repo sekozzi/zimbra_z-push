@@ -27,7 +27,7 @@ Firstly, we need to install epel repo for installation the depencies.
 > 
 > chown zimbra:zimbra /var/lib/z-push /var/log/z-push
 
-**then move z-push folder on /opt;**
+**then move z-push folder over /opt;**
 
 > cp -rvf z-push /opt
 
