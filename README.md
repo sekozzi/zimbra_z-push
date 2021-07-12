@@ -1,7 +1,5 @@
-# Integrating Zimbra and Z-push
+# Integrating Zimbra and Z-push on Centos 7
 This repository is source for integrating Zimbra Single Server and Z-Push + Zimbra Backend to achieve ActiveSync on Zimbra Open Source Edition.
-
-**Integrating on CentOS 7**
 
 I’m using the following versions in this guide:
 - Zimbra 8.8.15 GA Release Patch 23
