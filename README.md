@@ -52,7 +52,7 @@ and finally, you need to change **TIMEZONE** and **ZPUSH_HOST** on **/opt/z-push
 
 > ln -sf /opt/z-push /opt/zimbra/jetty/webapps/
 
-**then php script on /usr/bin;**
+**then copy php script to /usr/bin;**
 
 > cp php-cgi-fix.sh /usr/bin/php-cgi-fix.sh
 > 
